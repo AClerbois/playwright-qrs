@@ -8,14 +8,19 @@ Rejoignez-nous pour une session d'introduction à Playwright, l'outil qui va ré
 
 Dans cette session, nous vous guiderons à travers les bases de Playwright, en vous montrant comment créer des scénarios de test robustes et fiables, sans les tracas habituels. Vous découvrirez comment automatiser des actions complexes dans différents navigateurs, en utilisant un langage de programmation de votre choix.
 
+## Speaker
+
+Adrien Clerbois
+
 ## Contenu du repository
 
 - `slides.pdf`: Le fichier PDF contenant les slides de la présentation.
 - `demos/`: Ce dossier contient les démonstrations pratiques de Playwright.
   - `01-npm/`: Démonstration 1 : Utilisation de la stack Node.js
   - `02-net-web/`: Démonstration 2 : Utilisation de la stack .NET avec MSTest
-  - `03-net-as-library/`: Démonstration 3 : Utilisation de la stack .NET en qualité de Librairies
-  - `04-net-api/`: Démonstration 4 : Utilisation de la stack .NET en attaquant une API
+  - `03-test-generators/`: Démonstration 3 : Explication du test generator
+  - `04-net-as-library/`: Démonstration 4 : Utilisation de la stack .NET en qualité de Librairies
+  - `05-net-api/`: Démonstration 5 : Utilisation de la stack .NET en attaquant une API
 
 ## Instructions d'utilisation
 
