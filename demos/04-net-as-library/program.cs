@@ -12,7 +12,7 @@ await context.Tracing.StartAsync(new()
     Sources = true
 });
 
-var page = await browser.NewPageAsync();
+var page = await context.NewPageAsync();
 await page.GotoAsync("https://www.mic-belgique.be/");
 await page.ScreenshotAsync(new()
 {
