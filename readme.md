@@ -45,35 +45,3 @@ cd repository-name
 ## Remarques
 
 N'hésitez pas à nous contacter si vous avez des questions ou des commentaires. Nous espérons que cette session sur Playwright vous inspirera à créer des performances dignes d'ovation dans l'automatisation des tests de navigation web !
-
-# Session notes
-
-## Demo 1
-
-- Init project playwright demo
-
-```bash
-npm init playwright@latest
-```
-
-- Show basic test
-
-- Explain locator
-
-- Run test
-
-```bash
-npx playwright test
-```
-
-- Display result
-
-```bash
-npx playwright show-report
-```
-
-- Move file from tests-examples to tests and run command
-
-```bash
-npx playwright test --ui
-```
