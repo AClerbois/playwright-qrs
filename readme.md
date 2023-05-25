@@ -32,7 +32,9 @@ git clone https://github.com/AClerbois/playwright-qrs
 
 2. Accédez au répertoire cloné :
 
+```bash
 cd repository-name
+```
 
 3. Ouvrez le fichier `slidedeck-playwright.pptx` pour consulter les slides de la présentation.
 
