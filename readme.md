@@ -12,10 +12,10 @@ Dans cette session, nous vous guiderons à travers les bases de Playwright, en v
 
 - `slides.pdf`: Le fichier PDF contenant les slides de la présentation.
 - `demos/`: Ce dossier contient les démonstrations pratiques de Playwright.
-  - `demo1/`: Démonstration 1 : [Description de la démonstration 1]
-  - `demo2/`: Démonstration 2 : [Description de la démonstration 2]
-  - ...
-- `resources/`: Ce dossier contient les ressources supplémentaires liées à la présentation, telles que des exemples de code et des liens utiles.
+  - `01-npm/`: Démonstration 1 : Utilisation de la stack Node.js
+  - `02-net-web/`: Démonstration 2 : Utilisation de la stack .NET avec MSTest
+  - `03-net-as-library/`: Démonstration 3 : Utilisation de la stack .NET en qualité de Librairies
+  - `04-net-api/`: Démonstration 4 : Utilisation de la stack .NET en attaquant une API
 
 ## Instructions d'utilisation
 
